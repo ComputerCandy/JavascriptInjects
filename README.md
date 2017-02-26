@@ -1,2 +1,2 @@
-# JavascriptInjects
-A repository of all of my Javascript Injectables for all sorts things.
+# Javascript Injects
+Learn how to do your work like a professional!
